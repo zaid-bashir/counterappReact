@@ -1,0 +1,17 @@
+.counter-h1{
+    text-align: center;
+}
+
+.inc-btn{
+    color: white;
+    background-color: green;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.dec-btn{
+    color: white;
+    background-color: red;
+    padding: 10px;
+    margin-bottom: 30px;
+}
